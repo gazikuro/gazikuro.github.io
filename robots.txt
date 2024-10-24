@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gazikuro.github.io/sitemap/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/PVW/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/Fct/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/qur/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/yHu/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/kPR/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/STm/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/lLx/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/URF/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/VDa/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/iPN/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/hpb/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/fCp/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/Zoq/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/elG/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/vVy/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/Qef/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/cSN/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/iEB/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/xFg/sitemap_index.gazikuro
+Sitemap: https://gazikuro.github.io/gAS/sitemap_index.gazikuro
